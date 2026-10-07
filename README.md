@@ -1,4 +1,4 @@
-# Catálogo de Películas — Sala Oscura
+# Catálogo de Películas — Rincon de peiculas de Jesús
 
 Aplicación web hecha con React y Vite: un catálogo interactivo de películas (sin backend) donde se puede buscar, filtrar, ver detalles, guardar favoritas y calificar de 1 a 5 estrellas.
 
